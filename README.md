@@ -3,7 +3,7 @@
 Hey! Glad you're here :D
 
 ## Stats
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345)](https://github.com/Danie12345/github-readme-stats)
 
 
 ### Contact
