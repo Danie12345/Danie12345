@@ -3,7 +3,7 @@
 Hey! Glad you're here :D
 
 ## Stats
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345)](https://github.com/Danie12345/github-readme-stats)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345&theme=radical)
 
 
 ### Contact
@@ -29,7 +29,7 @@ Currently (March 2022 -), I've joined the Microverse curriculum, and am on my jo
 - I worked for over a year at [Grupo Migesa](https://www.migesa.com.mx/) in [Soft/M](https://www.softm.com.mx/?lang=en), a software developing company in México.
 
 
-### Check Out Some Of My [projects](https://github.com/Danie12345?tab=repositories)
+### Check Out Some Of My [Projects](https://github.com/Danie12345?tab=repositories)
 > During the ![](https://img.shields.io/badge/Microverse-blueviolet) program!
 - [Personal Portfolio](https://github.com/Danie12345/portfolio-mobile):
   My personal portfolio project, a showcase of my more recent projects, as well as the technologies I've used. Check out the [live demo](https://danie12345.github.io/portfolio-mobile/) for more!
