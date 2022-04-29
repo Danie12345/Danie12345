@@ -3,7 +3,7 @@
 Hey! Glad you're here :D
 
 ## Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345&theme=discord_old_blurple)
 
 
 ### Contact
@@ -14,7 +14,8 @@ danielmaloosorio@gmail.com
 ### My story
 I've been programming since I was in High School, hence I started in 2015 (I was 15 then). I had a programming teacher (first-ever in my school) who taught us a couple of things. I was taught the art of algorithms using the flowchart software Raptor.
  
-I was next taught Python, though I didn't get the hang of it at first, by the end of that semester I was *hooked*; and I do mean the very end quite literally. I quickly learned Python 3.6+ syntax after that and started a few projects of my own, most were hobby projects and an excuse to learn more.
+I was next taught Python, though I didn't get the hang of it at first, but by the end of that semester I was *hooked*; and I do mean the very end quite literally. I quickly learned Python 3.6+ syntax after that and started a few projects of my own, most were hobby projects and an excuse to learn more.
+
 In the coming semester, I was shown how to manipulate Excel files using VBA, which was fun but not as much as Python had been.
  
 Later I learned how to make my basic web pages with HTML 5, CSS 3, and JavaScript (ES6). It became my second favorite thing to do as a young programmer.
