@@ -12,17 +12,21 @@ And my last year in high school, we were shown how to use ReactJS... which didn'
 
 After High School, I kept pushin my boundaries learning about classes and OOP, and learning MATLAB + Arduino (for college and my career),  C# + Angular 9 + Bootstrap 4 (my first work experience) and Java 11 (for a videogame mod).
 
-Currently I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!
+Currently (March 2022 -) I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!
 
 
-### Check out some of my [projects](https://github.com/Danie12345?tab=repositories)
-> Made during the ![](https://img.shields.io/badge/Microverse-blueviolet) program!
+### Work Experience
+- I worked for over a year at [Grupo Migesa](https://www.migesa.com.mx/) in [Soft/M](https://www.softm.com.mx/?lang=en), a software developing company in México.
+
+
+### Check Out Some Of My [projects](https://github.com/Danie12345?tab=repositories)
+> During the ![](https://img.shields.io/badge/Microverse-blueviolet) program!
 - [Personal Portfolio](https://github.com/Danie12345/portfolio-mobile): [Live Demo](https://danie12345.github.io/portfolio-mobile/)
 - [Capstone One - Replica Of The Creative Commons Global Summit 2015 Event](https://github.com/Danie12345/capstone-one): [Live Demo](https://danie12345.github.io/capstone-one/)
 - [Awesome Books](https://github.com/Danie12345/awesome-books): [Live Demo](https://danie12345.github.io/awesome-books/src/)
 - [To-do List](https://github.com/Danie12345/todo-list): [Live Demo](https://danie12345.github.io/todo-list/dist/)
 
-> Made outside of Microverse!
+> Outside of Microverse!
 - [Pysweeper](https://github.com/Danie12345/pysweeper)
 - [Repo for Python games](https://github.com/Danie12345/python_apps)
 - [Simple Web Incremental Games](https://github.com/Danie12345/Games)
