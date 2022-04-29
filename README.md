@@ -12,7 +12,7 @@ And my last year in high school, we were shown how to use ReactJS... which didn'
 
 After High School, I kept pushin my boundaries learning about classes and OOP, and learning MATLAB + Arduino (for college and my career),  C# + Angular 9 + Bootstrap 4 (my first work experience) and Java 11 (for a videogame mod).
 
-Currently (March 2022 -) I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!
+Currently (March 2022 -), I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!
 
 
 ### Work Experience
