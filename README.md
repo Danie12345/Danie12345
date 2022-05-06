@@ -2,6 +2,9 @@
 
 Hey! Glad you're here :D
 
+### Who I am
+I'm a young developer, started coding at around the age of 16 during my High School years. I know Python, JavaScript, Java among 6 other languages. I continue to learn more everyday since I joined the Microverse curriculum! I love programming and automation, entered university to study Mechatronics Engineering at ITESM in México. I spend my free time coding, playing videogames, hanging out with friends or siblings, or surfing the web.
+
 ## Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345&theme=discord_old_blurple)
 
@@ -18,9 +21,9 @@ Hey! Glad you're here :D
 danielmaloosorio@gmail.com
 > Currently, I am up for hiring!
 
-
-## My story
-I've been programming since I was in High School, hence I started in 2015 (I was 15 then). I had a programming teacher (first-ever in my school) who taught us a couple of things. I was taught the art of algorithms using the flowchart software Raptor.
+<details>
+ <summary>My story </summary>
+ <p>I've been programming since I was in High School, hence I started in 2015 (I was 15 then). I had a programming teacher (first-ever in my school) who taught us a couple of things. I was taught the art of algorithms using the flowchart software Raptor.
  
 I was next taught Python, though I didn't get the hang of it at first, but by the end of that semester I was *hooked*; and I do mean the very end quite literally. I quickly learned Python 3.6+ syntax after that and started a few projects of my own, most were hobby projects and an excuse to learn more.
 
@@ -31,7 +34,8 @@ And my last year in high school, we were shown how to use ReactJS... which didn'
  
 After High School, I kept pushing my boundaries learning about classes and OOP and learning MATLAB + Arduino (for college and my career), ASP.NET Core - C# & NuGet + Angular 9 + Bootstrap 4 (my first work experience), Java SE 11 (for a videogame mod) and last, but not least, the p5.js graphics library for JavaScript.
  
-Currently (March 2022 -), I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!
+Currently (March 2022 -), I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!</p>
+</details>
 
 
 ## Work Experience
