@@ -3,7 +3,7 @@
 Hey! Glad you're here :D
 
 ### Who I am
-I'm a young developer, started coding at around the age of 16 during my High School years. I know Python, JavaScript, Java among 6 other languages. I continue to learn more everyday since I joined the Microverse curriculum! I love programming and automation, entered university to study Mechatronics Engineering at ITESM in Mexico. I spend my free time coding, playing videogames, hanging out with friends or siblings, or surfing the web.
+I'm an aspiring developer, started coding during my High School years. I know Python, JavaScript, Java among 6 other languages. I continue to learn more everyday since I joined the Microverse curriculum! I love programming and automation, entered university to study Mechatronics Engineering at ITESM in México. I spend my free time coding, playing videogames, hanging out with friends or siblings, or surfing the web.
 
 ## Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie12345&theme=discord_old_blurple)
