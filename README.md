@@ -34,13 +34,18 @@ And my last year in high school, we were shown how to use ReactJS... which didn'
  
 After High School, I kept pushing my boundaries learning about classes and OOP and learning MATLAB + Arduino (for college and my career), ASP.NET Core - C# & NuGet + Angular 9 + Bootstrap 4 (my first work experience), Java SE 11 (for a videogame mod) and last, but not least, the p5.js graphics library for JavaScript.
  
-Currently (March 2022 -), I've joined the Microverse curriculum, and am on my journey to make web development a part of my future professional work!</p>
+I joined the Microverse curriculum, and went on a journey to make web development a part of my future professional work!
+
+Got my first job as a web developer for a logistics app for Schryver Logistics in Germany and formed part of the awesome team at Logic Solutions GmbH!
+
+Currently (Sept. 2026) I work as a full-stack web developer for the NORIS team at Nemak.
+</p>
 </details>
 
 
 ## Work Experience
 - I worked for over a year at [Grupo Migesa](https://www.migesa.com.mx/) in [Soft/M](https://www.softm.com.mx/?lang=en), a software developing company in México.
-
+- I worked for one and a half years at [Logic Solutions GmbH](https://www.linkedin.com/company/logic-solutions-gmbh/), a software firm located in Germany, with a global team.
 
 ## Check Out Some Of My [Projects](https://github.com/Danie12345?tab=repositories)
 > During the ![](https://img.shields.io/badge/Microverse-blueviolet) program!
